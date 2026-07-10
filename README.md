@@ -6,4 +6,4 @@ CSE & Data Science Student |<br>Training models, building data pipelines, and wr
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html)](https://github.com/squarerb)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql,nodejs,js,html)](https://github.com/squarerb)
